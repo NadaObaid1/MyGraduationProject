@@ -265,7 +265,7 @@ const AddManager = () => {
             setFieldValid({ ...fieldValid, phone: isValidPhone });
           }}
           style={styles.input}
-          placeholder="+972 56-853-6463"
+          placeholder="+972 56-293-7433"
         />
         <FontAwesomeIcon icon={faPhone} style={styles.icon} />
       </View>
